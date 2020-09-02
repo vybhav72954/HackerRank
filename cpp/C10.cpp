@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	string a;
+    string a;
     string b;
     cin>>a>>b;
     string c = a + b;
