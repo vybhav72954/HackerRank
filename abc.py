@@ -26,4 +26,5 @@ def target(size , lst , k):
             tgtValue = i
     return tgtValue
 
-print (target(3 , [1,2,3] , 2))
+print(target(3, [1, 2, 3], 2))
+print(target(4, [4, 5, 6, 7], 3))
