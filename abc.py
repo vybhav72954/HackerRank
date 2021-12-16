@@ -10,7 +10,7 @@ def victor(num):
         for p in victor(remain):
             listed.append([m] + p)
     return listed
-
+print ("I am cool")
 def target(size , lst , k):
     tgtList = []
     for p in victor(lst):
